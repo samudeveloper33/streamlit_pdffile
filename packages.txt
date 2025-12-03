@@ -8,8 +8,6 @@ libopenblas-dev
 liblapack-dev
 libopenjp2-7
 libtiff-dev
-libjasper-dev
 libjpeg-dev
 libharfbuzz0b
-libwebp6
 libtk8.6
