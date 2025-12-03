@@ -4,10 +4,3 @@ libsm6
 libxext6
 libxrender-dev
 libgomp1
-libopenblas-dev
-liblapack-dev
-libopenjp2-7
-libtiff-dev
-libjpeg-dev
-libharfbuzz0b
-libtk8.6
