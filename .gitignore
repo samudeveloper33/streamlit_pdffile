@@ -1,0 +1,16 @@
+# Environments
+.env
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Documentation & Development Files
+monitor.py
+24_HOUR_OPERATION.md
+FIX_SUMMARY.md
+RESUMABLE_UPLOAD_FEATURE.md
+RESUMABLE_UPLOAD_QUICK_REFERENCE.md
+RUNNING_GUIDE.md
+TESTING_RESUMABLE_UPLOADS.md
